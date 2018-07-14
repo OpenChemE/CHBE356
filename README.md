@@ -7,7 +7,7 @@
 * [Installing the Python Control Library](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Control%20Library%20Installation.ipynb)
 
 ## 1. Modeling Chemical Processes
-* [Linearization Example](https://github.com/OpenChemE/CHBE356/blob/master/Linearization%20Examples.ipynb)
+* [Linearization Example](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Linearization%20Examples.ipynb)
 
 ## 2. Transfer Functions
 * [Step Response of a Transfer Function](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Transfer%20Functions%20-%20Step%20Response.ipynb)
@@ -15,5 +15,6 @@
 ## 3. Feedback Control
 
 ## 4. Stability Analysis
+* [Creating Interactive Sliders](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Creating%20Sliders.ipynb)
 
 ## 5. Advanced Process Control
