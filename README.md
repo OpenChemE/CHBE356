@@ -17,5 +17,6 @@
 ## 4. Stability Analysis
 * [Creating Interactive Sliders](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Creating%20Sliders.ipynb)
 * [Creating Interactive Sliders - Part II: Better Sliders](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Creating%20Sliders%20-%20Part%20II.ipynb)
+* [Creating Animations](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Creating%20Animations.ipynb)
 
 ## 5. Advanced Process Control
