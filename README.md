@@ -7,6 +7,7 @@
 * [Installing the Python Control Library](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Control%20Library%20Installation.ipynb)
 
 ## 1. Modeling Chemical Processes
+* [Linearization Example](https://github.com/OpenChemE/CHBE356/blob/master/Linearization%20Examples.ipynb)
 
 ## 2. Transfer Functions
 * [Step Response of a Transfer Function](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Transfer%20Functions%20-%20Step%20Response.ipynb)
