@@ -11,6 +11,7 @@
 
 ## 2. Transfer Functions
 * [Step Response of a Transfer Function](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Transfer%20Functions%20-%20Step%20Response.ipynb)
+* [Integrating Processes](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Integrating%20Processes.ipynb)
 
 ## 3. Feedback Control
 
