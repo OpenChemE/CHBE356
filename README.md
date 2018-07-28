@@ -21,3 +21,5 @@
 * [Creating Animations](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Creating%20Animations.ipynb)
 
 ## 5. Advanced Process Control
+* [Building MIMO systems](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Building%20MIMO%20systems.ipynb)
+* [Wood-Berry Distillation Model: Open Loop Step Response](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Wood-Berry%20Model%20-%20Open%20Loop%20Step%20Response.ipynb)
