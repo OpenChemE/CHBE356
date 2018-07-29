@@ -40,5 +40,5 @@ git config --global user.email ${GIT_EMAIL}
 git config --global user.name ${GIT_NAME}
 git add .
 git commit --message "Travis update README.MD: $TRAVIS_BUILD_NUMBER"
-git remote add origin https://${GH_TOKEN}@github.com/OpenChemE/CHBE356.git
+git remote set-url origin https://${GH_TOKEN}@github.com/OpenChemE/CHBE356.git
 git push -u origin master
