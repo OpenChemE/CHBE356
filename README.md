@@ -2,24 +2,31 @@
 
 *Work in Progress:* This repository contains a collection of notebooks and resources for process control based on the UBC curriculum.
 
-## 0. Getting Started
-* [Drawing Control Block Diagrams with LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Block%20Diagram.ipynb)
-* [Installing the Python Control Library](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Control%20Library%20Installation.ipynb)
+# 0. Getting Started
+* [Drawing Control Block Diagrams with LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Drawing Control Block Diagrams with LaTeX.ipynb)
+* [Installing Python Control Systems Library](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Installing Python Control Systems Library.ipynb)
 
-## 1. Modeling Chemical Processes
-* [Linearization Example](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Linearization%20Examples.ipynb)
 
-## 2. Transfer Functions
-* [Step Response of a Transfer Function](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Transfer%20Functions%20-%20Step%20Response.ipynb)
-* [Integrating Processes](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Integrating%20Processes.ipynb)
+# 1. Modelling Chemical Processes
+* [Linearization Examples](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Linearization Examples.ipynb)
 
-## 3. Feedback Control
 
-## 4. Stability Analysis
-* [Creating Interactive Sliders](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Creating%20Sliders.ipynb)
-* [Creating Interactive Sliders - Part II: Better Sliders](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Creating%20Sliders%20-%20Part%20II.ipynb)
-* [Creating Animations](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Creating%20Animations.ipynb)
+# 2. Transfer Functions
+* [Integrating Processes](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Integrating Processes.ipynb)
+* [Transfer Functions - Step Response](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Transfer Functions - Step Response.ipynb)
 
-## 5. Advanced Process Control
-* [Building MIMO systems](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Building%20MIMO%20systems.ipynb)
-* [Wood-Berry Distillation Model: Open Loop Step Response](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Wood-Berry%20Model%20-%20Open%20Loop%20Step%20Response.ipynb)
+
+# 3. Feedback Control
+
+
+# 4. Stability Analysis
+* [Creating Animations](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Creating Animations.ipynb)
+* [Creating Interactive Sliders - Part I](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Creating Interactive Sliders - Part I.ipynb)
+* [Creating Interactive Sliders - Part II](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Creating Interactive Sliders - Part II.ipynb)
+
+
+# 5. Advanced Process Control
+* [Building MIMO systems](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/Building MIMO systems.ipynb)
+* [MIMO Distillation Model - Open Loop Response](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/MIMO Distillation Model - Open Loop Response.ipynb)
+
+
