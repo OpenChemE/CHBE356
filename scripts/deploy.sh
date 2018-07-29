@@ -27,7 +27,7 @@ for d in ../Notebooks/* ; do
 		ffext=${fbase##*.}
 		fpref=${fbase%.*}
 
-    	echo "* [$fpref]($nbviewer_path/$fbase)" >> "$readme_path"
+    	echo "* [$fpref]($nbviewer_path/${fbase// /%20})" >> "$readme_path"
     done
 
     echo -e "\n" >> "$readme_path"
