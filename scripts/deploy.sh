@@ -35,10 +35,10 @@ for d in ./Notebooks/* ; do
 
 done
 
-# Setup and push to master 
-git config --global user.email "travis@travis-ci.org"
-git config --global user.name "Travis CI"
+# # Setup and push to master
+git config --global user.email ${GIT_EMAIL}
+git config --global user.name ${GIT_NAME}
 git add .
 git commit --message "Travis update README.MD: $TRAVIS_BUILD_NUMBER"
-git remote add origin https://${GH_TOKEN}@github.com/OpenChemE/CHBE356.git > /dev/null 2>&1
-git push --quiet origin master
+git remote add origin https://${GH_TOKEN}@github.com/OpenChemE/CHBE356.git
+git push -u origin master
