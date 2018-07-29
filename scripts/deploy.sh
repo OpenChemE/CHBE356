@@ -14,7 +14,7 @@ cat "$header_path" > "$readme_path"
 echo -e "\n" >> "$readme_path"
 
 # https://stackoverflow.com/questions/3362920/get-just-the-filename-from-a-path-in-a-bash-script
-for d in /Notebooks/* ; do
+for d in ./Notebooks/* ; do
 	xpath=${d%/*} 
 	xbase=${d##*/}
 	xfext=${xbase##*.}
@@ -35,10 +35,10 @@ for d in /Notebooks/* ; do
 
 done
 
-# Setup and push to master
+# # Setup and push to master
 git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
 git add .
-git commit --message "Travis update README: $TRAVIS_BUILD_NUMBER"
+git commit --message "Travis update README.MD: $TRAVIS_BUILD_NUMBER"
 git remote add origin https://${GH_TOKEN}@github.com/OpenChemE/CHBE356.git > /dev/null 2>&1
 git push --quiet origin master
