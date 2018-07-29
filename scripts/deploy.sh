@@ -38,7 +38,8 @@ done
 # Setup and push to master
 git config --global user.email ${GIT_EMAIL}
 git config --global user.name ${GIT_NAME}
+git checkout master
 git add .
 git commit --message "Travis update README.MD: $TRAVIS_BUILD_NUMBER"
 git remote set-url origin https://${GH_TOKEN}@github.com/OpenChemE/CHBE356.git
-git push -u origin master
+git push origin master
