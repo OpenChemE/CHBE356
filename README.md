@@ -16,6 +16,12 @@
 * [Transfer Functions - Step Response](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Transfer%20Functions%20-%20Step%20Response.ipynb)
 
 
+# 3. Feedback Control
+* [Control Actions and Plant Response Animation](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/3.%20Feedback%20Control/Control%20Actions%20and%20Plant%20Response%20Animation.ipynb)
+* [Plant Simulator with Interactive Control Actions](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/3.%20Feedback%20Control/Plant%20Simulator%20with%20Interactive%20Control%20Actions.ipynb)
+* [Using Python Generators and Yield](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/3.%20Feedback%20Control/Using%20Python%20Generators%20and%20Yield.ipynb)
+
+
 # 4. Stability Analysis
 * [Creating Animations](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Animations.ipynb)
 * [Creating Interactive Sliders - Part II](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Interactive%20Sliders%20-%20Part%20II.ipynb)
