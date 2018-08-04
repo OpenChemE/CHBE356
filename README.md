@@ -13,6 +13,7 @@
 
 # 2. Transfer Functions
 * [Integrating Processes](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Integrating%20Processes.ipynb)
+* [Properties of Linear Time Invariant (LTI) Processes](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Properties%20of%20Linear%20Time%20Invariant%20(LTI)%20Processes.ipynb)
 * [Transfer Functions - Step Response](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Transfer%20Functions%20-%20Step%20Response.ipynb)
 
 
