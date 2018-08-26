@@ -1,6 +1,9 @@
 # CHBE 356 - Process Dynamics and Control
 
-*Work in Progress:* This repository contains a collection of notebooks and resources for process control based on the UBC curriculum.
+Introduction to modeling of chemical processes; transient response analysis; design of feedback control systems; stability analysis; frequency response analysis; process control applications; instrumentation; advanced control techniques; distributed control systems.
+
+__*Work in Progress:* This repository contains a collection of notebooks and resources for process control based on the UBC curriculum.__
+
 
 # 0. Getting Started
 * [Drawing Control Block Diagrams with LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/Drawing%20Control%20Block%20Diagrams%20with%20LaTeX.ipynb)
