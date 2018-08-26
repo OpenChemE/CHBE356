@@ -5,9 +5,11 @@
 # 0. Getting Started
 * [Drawing Control Block Diagrams with LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/Drawing%20Control%20Block%20Diagrams%20with%20LaTeX.ipynb)
 * [Installing Python Control Systems Library](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/Installing%20Python%20Control%20Systems%20Library.ipynb)
+* [Introduction to LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/Introduction%20to%20LaTeX.ipynb)
 
 
 # 1. Modelling Chemical Processes
+* [Laplace Transforms](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/Laplace%20Transforms.ipynb)
 * [Linearization Examples](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/Linearization%20Examples.ipynb)
 
 
