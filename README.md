@@ -12,12 +12,14 @@ __*Work in Progress:* This repository contains a collection of notebooks and res
 
 
 # 1. Modelling Chemical Processes
+* [Introduction to Pandas](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/Introduction%20to%20Pandas.ipynb)
 * [Laplace Transforms](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/Laplace%20Transforms.ipynb)
 * [Linearization Examples](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/Linearization%20Examples.ipynb)
 
 
 # 2. Transfer Functions
 * [Integrating Processes](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Integrating%20Processes.ipynb)
+* [Lead-Lag Behaviour](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Lead-Lag%20Behaviour.ipynb)
 * [Pade Approximation](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Pade%20Approximation.ipynb)
 * [Properties of Linear Time Invariant (LTI) Processes](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Properties%20of%20Linear%20Time%20Invariant%20(LTI)%20Processes.ipynb)
 * [Transfer Functions - Step Response](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/2.%20Transfer%20Functions/Transfer%20Functions%20-%20Step%20Response.ipynb)
@@ -37,6 +39,7 @@ __*Work in Progress:* This repository contains a collection of notebooks and res
 
 # 5. Advanced Process Control
 * [Building MIMO systems](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/5.%20Advanced%20Process%20Control/Building%20MIMO%20systems.ipynb)
+* [Distributed Control Sytems (DCS)](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/5.%20Advanced%20Process%20Control/Distributed%20Control%20Sytems%20(DCS).ipynb)
 * [MIMO Distillation Model - Open Loop Response](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/5.%20Advanced%20Process%20Control/MIMO%20Distillation%20Model%20-%20Open%20Loop%20Response.ipynb)
 
 
