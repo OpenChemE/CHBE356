@@ -6,15 +6,16 @@ __*Work in Progress:* This repository contains a collection of notebooks and res
 
 
 # 0. Getting Started
-* [Drawing Control Block Diagrams with LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/Drawing%20Control%20Block%20Diagrams%20with%20LaTeX.ipynb)
-* [Installing Python Control Systems Library](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/Installing%20Python%20Control%20Systems%20Library.ipynb)
-* [Introduction to LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/Introduction%20to%20LaTeX.ipynb)
+* [1. Welcome to CHBE 356](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/1.%20Welcome%20to%20CHBE%20356.ipynb)
+* [2. Using the Python Control Systems Library](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/2.%20Using%20the%20Python%20Control%20Systems%20Library.ipynb)
+* [3. Introduction to LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/3.%20Introduction%20to%20LaTeX.ipynb)
+* [4. Drawing Control Block Diagrams with LaTeX](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/0.%20Getting%20Started/4.%20Drawing%20Control%20Block%20Diagrams%20with%20LaTeX.ipynb)
 
 
 # 1. Modelling Chemical Processes
-* [Introduction to Pandas](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/Introduction%20to%20Pandas.ipynb)
-* [Laplace Transforms](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/Laplace%20Transforms.ipynb)
-* [Linearization Examples](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/Linearization%20Examples.ipynb)
+* [1. Introduction to Pandas](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/1.%20Introduction%20to%20Pandas.ipynb)
+* [2. Laplace Transforms](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/2.%20Laplace%20Transforms.ipynb)
+* [3. Linearization Examples](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/1.%20Modelling%20Chemical%20Processes/3.%20Linearization%20Examples.ipynb)
 
 
 # 2. Transfer Functions
