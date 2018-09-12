@@ -36,6 +36,7 @@ __*Work in Progress:* This repository contains a collection of notebooks and res
 * [Creating Animations](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Animations.ipynb)
 * [Creating Interactive Sliders - Part II](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Interactive%20Sliders%20-%20Part%20II.ipynb)
 * [Creating Interactive Sliders - Part I](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Interactive%20Sliders%20-%20Part%20I.ipynb)
+* [Nyquist Stability](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Nyquist%20Stability.ipynb)
 
 
 # 5. Advanced Process Control
