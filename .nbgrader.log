@@ -1,0 +1,62 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\cornelius475\Documents\GitHub\CHBE356
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=fce85f093d5af47e4f9a4b7b2b83f49279364bd8d50dc4eb
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fce85f093d5af47e4f9a4b7b2b83f49279364bd8d50dc4eb
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Creating new directory in /Notebooks/2. Transfer Functions
+[NotebookApp | WARNING] delete /Notebooks/2. Transfer Functions/Untitled Folder
+[NotebookApp | INFO] Creating new notebook in /Notebooks/2. Transfer Functions
+[NotebookApp | INFO] Kernel started: 9b65438c-2815-467e-9063-1b20d43cfbc6
+[NotebookApp | WARNING] 404 GET /nbextensions/canopy/training/exercise.js?v=20181220141851 (::1) 7.00ms referer=http://localhost:8888/notebooks/Notebooks/2.%20Transfer%20Functions/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9b65438c-2815-467e-9063-1b20d43cfbc6
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks/2. Transfer Functions/TF-Polezero-Practice.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 9b65438c-2815-467e-9063-1b20d43cfbc6
