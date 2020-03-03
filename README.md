@@ -1,5 +1,7 @@
 # CHBE 356 - Process Dynamics and Control
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenChemE/CHBE356/master)
+
 Introduction to modeling of chemical processes; transient response analysis; design of feedback control systems; stability analysis; frequency response analysis; process control applications; instrumentation; advanced control techniques; distributed control systems.
 
 __*Work in Progress:* This repository contains a collection of notebooks and resources for process control based on the UBC curriculum.__
@@ -27,6 +29,7 @@ __*Work in Progress:* This repository contains a collection of notebooks and res
 
 
 # 3. Feedback Control
+* [Control Actions and Plant Response Animation II](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/3.%20Feedback%20Control/Control%20Actions%20and%20Plant%20Response%20Animation%20II.ipynb)
 * [Control Actions and Plant Response Animation](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/3.%20Feedback%20Control/Control%20Actions%20and%20Plant%20Response%20Animation.ipynb)
 * [Plant Simulator with Interactive Control Actions](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/3.%20Feedback%20Control/Plant%20Simulator%20with%20Interactive%20Control%20Actions.ipynb)
 * [Using Python Generators and Yield](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/3.%20Feedback%20Control/Using%20Python%20Generators%20and%20Yield.ipynb)
@@ -34,8 +37,8 @@ __*Work in Progress:* This repository contains a collection of notebooks and res
 
 # 4. Stability Analysis
 * [Creating Animations](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Animations.ipynb)
-* [Creating Interactive Sliders - Part II](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Interactive%20Sliders%20-%20Part%20II.ipynb)
 * [Creating Interactive Sliders - Part I](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Interactive%20Sliders%20-%20Part%20I.ipynb)
+* [Creating Interactive Sliders - Part II](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Creating%20Interactive%20Sliders%20-%20Part%20II.ipynb)
 * [Nyquist Stability](http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/Notebooks/4.%20Stability%20Analysis/Nyquist%20Stability.ipynb)
 
 

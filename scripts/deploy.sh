@@ -11,7 +11,7 @@ nbviewer_path="http://nbviewer.jupyter.org/github/OpenChemE/CHBE356/blob/master/
 
 # Copy the header over and add a blank line
 cat "$header_path" > "$readme_path"
-echo -e "\n" >> "$readme_path"
+echo "\n" >> "$readme_path"
 
 # https://stackoverflow.com/questions/3362920/get-just-the-filename-from-a-path-in-a-bash-script
 for d in ./Notebooks/* ; do
@@ -31,15 +31,15 @@ for d in ./Notebooks/* ; do
     	echo "* [$fpref]($nbviewer_path/${xbase// /%20}/${fbase// /%20})" >> "$readme_path"
     done
 
-    echo -e "\n" >> "$readme_path"
+    echo "\n" >> "$readme_path"
 
 done
 
-# Setup and push to master
-git config --global user.email ${GIT_EMAIL}
-git config --global user.name ${GIT_NAME}
-git checkout master
-git add .
-git commit --message "Travis $TRAVIS_BUILD_NUMBER: $TRAVIS_COMMIT_MESSAGE"
-git remote set-url origin https://${GH_TOKEN}@github.com/OpenChemE/CHBE356.git
-git push origin master
+# # Setup and push to master
+# git config --global user.email ${GIT_EMAIL}
+# git config --global user.name ${GIT_NAME}
+# git checkout master
+# git add .
+# git commit --message "Travis $TRAVIS_BUILD_NUMBER: $TRAVIS_COMMIT_MESSAGE"
+# git remote set-url origin https://${GH_TOKEN}@github.com/OpenChemE/CHBE356.git
+# git push origin master
